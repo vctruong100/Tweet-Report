@@ -1,30 +1,31 @@
---Readme document for *author*--
+# Tweet-Report for Informatics 133
 
-1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
+This project is a tweet reporting tool implemented using HTML, JavaScript (JS), and TypeScript (TS). It processes tweet data and provides interactive summaries and search capabilities.
 
-20/20
-- 2/2 Tweet dates
-- 3/3 Tweet categories
-- 3/3 User-written tweets
-- 3/3 Determining activity type and distance
-- 3/3 Graphing activities by distance
-- 3/3 Implementing the search box
-- 3/3 Populating the table
+## Features
 
-2. How long, in hours, did it take you to complete this assignment?
-23 hours.
+### About Page - Tweet Summary
+- Dynamically summarizes tweets and displays them on the about page.
+- Uses JQuery to manipulate DOM elements to reflect computed values.
+
+### Activities Page - Popularity Metrics
+- Identifies and displays the most popular activities based on tweet data.
+- Calculates the number of tweets per activity type and updates the page accordingly.
+
+### Description Page - Text Search Interface
+- Adds a search interface to filter and display tweets based on text queries.
+- Utilizes JQuery for dynamic content updates without reloading the page.
+
+### TypeScript Tweet Class
+- Features are added to the Tweet TypeScript class to support functionality.
+- Modifications are made dynamically, ensuring that different data inputs yield corresponding outputs.
+
+## Instructions
+
+1. Clone the repository to your local machine.
+2. Navigate to the project directory.
+3. Open `index.html` in your web browser to view the report.
+4. Use the navigation menu to switch between the About, Activities, and Description pages.
+5. Interact with the dynamic content on each page powered by the TypeScript class and JQuery.
 
 
-3. What online resources did you consult when completing this assignment? (list sites like StackOverflow or specific URLs for tutorials, etc.)
-Javascript references: https://www.w3schools.com/jsref/jsref_obj_string.asp
-Format: https://mathjs.org/docs/reference/functions/format.html
-Vega charts: https://vega.github.io/vega-lite/examples/
-https://vega.github.io/vega-lite/examples/point_offset_random.html
-https://chat.openai.com/
-https://inf133.markbaldw.in/notes/wk4.html
-
-4. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
-Jaylen Luc and Neal Lowry. We mainly compared numbers and charts.
-
-5. Is there anything special we need to know in order to run your code?
-No.
