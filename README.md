@@ -28,4 +28,11 @@ This project is a tweet reporting tool implemented using HTML, JavaScript (JS), 
 4. Use the navigation menu to switch between the About, Activities, and Description pages.
 5. Interact with the dynamic content on each page powered by the TypeScript class and JQuery.
 
+## License
 
+This project is licensed under the terms of the UCI academic integrity policy.
+
+## Acknowledgments
+
+- UC Irvine for providing the learning experience and project outline.
+- Spotify for their API and developer tools.
